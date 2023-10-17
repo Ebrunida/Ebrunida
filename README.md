@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Tools & Frameworks
 
-![My Tools](https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mongodb,insomnia,vscode,csharp,java,mysql,cpp,git,bash,discord,vscode)
+![My Tools](https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mongodb,vscode,c#,java,mysql,cpp,git,bash,discord,vscode)
 
 ### Reach me here!
 
