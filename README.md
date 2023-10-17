@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 ### Reach me here!
 
 <a href = "https://www.linkedin.com/in/ebrunida-karadag-4638691aa/"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px></a>
- 
- ![GitHub](https://skillicons.dev/icons?i=github&link=[https://github.com/Ebrunida])  ![Instagram](https://skillicons.dev/icons?i=instagram&link=[https://www.instagram.com/ebruniida/) 
+<a href = "https://www.instagram.com/ebruniida/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width=50px></a>
+<a href = "https://github.com/Ebrunida"><img src = "https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width=50px></a>
