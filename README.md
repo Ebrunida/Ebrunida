@@ -18,4 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Reach me here!
 
-![LinkedIn] <a href = "https://www.linkedin.com/in/ebrunida-karadag-4638691aa/"> <img src = "[https://skillicons.dev/icons?](https://cdn-icons-png.flaticon.com/512/174/174857.png)"><i=linkedin&link=https://www.linkedin.com/in/ebrunida-karadag-4638691aa/)</a>  ![GitHub](https://skillicons.dev/icons?i=github&link=[https://github.com/Ebrunida])  ![Instagram](https://skillicons.dev/icons?i=instagram&link=[https://www.instagram.com/ebruniida/) 
+<a href = "https://www.linkedin.com/in/ebrunida-karadag-4638691aa/"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px></a>
+ 
+ ![GitHub](https://skillicons.dev/icons?i=github&link=[https://github.com/Ebrunida])  ![Instagram](https://skillicons.dev/icons?i=instagram&link=[https://www.instagram.com/ebruniida/) 
